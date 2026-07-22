@@ -1,0 +1,2838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Tower Kab Bulungan.kml</name>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_T01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_T</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_T1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_T3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_T1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_T</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_T">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_T00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_T2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_T1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_T10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_T00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_T1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_T0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_T01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_T02</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_T2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_T0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_T00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_observation-tower_icon-icons.com_70437">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_T">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_T00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_T00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_T0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_T10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_T02">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_T0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_T020</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_T1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_observation-tower_icon-icons.com_70437">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_T02">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_T2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_T3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_T01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_T0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_T3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_T020">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_T01">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_observation-tower_icon-icons.com_70437">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_observation-tower_icon-icons.com_70437</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_observation-tower_icon-icons.com_70437</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_T">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_T2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_T2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_T01">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/T-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>My Places</name>
+		<open>1</open>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open</state>
+					<href>:/mysavedplaces_open.png</href>
+				</ItemIcon>
+				<ItemIcon>
+					<state>closed</state>
+					<href>:/mysavedplaces_closed.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>19TJS001</name>
+			<description>19TJS001	TANJUNG_SELOR	PT. INDOSAT	Jl. Perumahan Guru, Tanjung Selor Kab. Bulungan	GF	SST	40	2.83564042	117.383789	2003		648/03/PEMB-II/2008				TG SELOR HILIR	TG SELOR</description>
+			<LookAt>
+				<longitude>117.6801699502993</longitude>
+				<latitude>3.38772339671731</latitude>
+				<altitude>0</altitude>
+				<heading>-0.000269704244925513</heading>
+				<tilt>0</tilt>
+				<range>119681.2158145743</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.383789,2.83564042,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KAL-EKL-0014-X-B</name>
+			<description>KAL-EKL-0014-X-B	3G_ Bunyu Selatan	PT Profesional Telekomunikasi Indonesia	Jl. Bunyu Raya Tanah Abnag No. 143 RT 011 Desa Pulau Bunyu Timur Kec. Bunyu Kab. Bulungan	GF	SST	40	3,4783	117,85463	2012	26-Dec-12	648/025/PEMB-II/IMB/2012	2	XLTSEL		BUNYU TIMUR	BUNYU</description>
+			<LookAt>
+				<longitude>117.397546453171</longitude>
+				<latitude>2.839708103723103</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01554800899347843</heading>
+				<tilt>16.20643632454424</tilt>
+				<range>6774.159981109444</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.85463,2.473041666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KAL-EKL-0014-X-B</name>
+			<description>KAL-EKL-0014-X-B	
+3G_ Bunyu Selatan	
+PT Profesional Telekomunikasi Indonesia	
+Jl. Bunyu Raya Tanah Abnag No. 143 RT 011
+ Desa Pulau Bunyu Timur Kec. Bunyu Kab. Bulungan	
+GF	
+SST	
+40	
+3,4783	
+117,85463	
+2012	
+26-Dec-12	
+648/025/PEMB-II/IMB/2012	
+2	
+XLTSEL		
+BUNYU TIMUR	
+BUNYU</description>
+			<LookAt>
+				<longitude>117.85463</longitude>
+				<latitude>3.478300000000002</latitude>
+				<altitude>0</altitude>
+				<heading>-0.08190867315092963</heading>
+				<tilt>0</tilt>
+				<range>49379.21944600211</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.85463,3.478300000000002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KAL-EKL-0004-X-B</name>
+			<description>KAL-EKL-0004-X-B	
+3G Tanung Selor Selatan	
+PT Profesional Telekomunikasi Indonesia	
+Jl. Kamboja RT 22 Kel. Tg. Selor Hulu Kec. Tanjung Selor Kab.Bulungan	
+GF	
+SST	
+30	
+2,83811	
+117,36721	
+2016	
+9-Feb-16	
+15/BPMPT-III/IMB/II/2016	
+2	
+XLTSEL		
+TG SELOR HULU	TG SELOR</description>
+			<LookAt>
+				<longitude>117.36721</longitude>
+				<latitude>2.838111111111114</latitude>
+				<altitude>0</altitude>
+				<heading>-0.09736604269834698</heading>
+				<tilt>0</tilt>
+				<range>112727.7089415394</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.36721,2.838111111111114,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KAL-EKL-0120-T-B</name>
+			<description>KAL-EKL-0120-T-B	
+Pelabuhan Bulungan	
+PT Profesional Telekomunikasi Indonesia	
+Jl. Sabanar Lama RT 31 RW 08 Kel. Tg. Selor Hilir Kab. Bulungan	
+GF	
+SST	
+40	
+2,86651	
+117,3862	
+2014	
+10-Mar-14	
+006/BPMPT-III/IMB/III/2014	
+1	
+TSEL		
+TG SELOR HILIR	TG SELOR</description>
+			<LookAt>
+				<longitude>117.3862</longitude>
+				<latitude>2.866511111111124</latitude>
+				<altitude>0</altitude>
+				<heading>-0.09785633712288196</heading>
+				<tilt>20.26945070301454</tilt>
+				<range>6708.176332070499</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.3862,2.866511111111128,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KAL-EKL-0131-T-B</name>
+			<description>KAL-EKL-0131-T-B	
+Wonomulyo (2)	
+PT Profesional Telekomunikasi Indonesia	
+Jl. Sungai Barito Ds. Tg. Agung RT 07 RW II Kec. Tg. Palas Timur Kab. Bulungan	
+GF	
+SST	
+70	
+2,7115	
+117,50422	
+2014	
+10-Mar-14	
+005/BPMPT-III/IMB/III/2014	
+1	
+TSEL		
+TANJUNG AGUNG	
+TG PALAS TIMUR</description>
+			<LookAt>
+				<longitude>117.50422</longitude>
+				<latitude>2.711500000000005</latitude>
+				<altitude>0</altitude>
+				<heading>-0.08362749453413426</heading>
+				<tilt>13.45795962941863</tilt>
+				<range>6145.584080877308</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.50422,2.711500000000005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KAL-EKL-0108-T-B</name>
+			<description>KAL-EKL-0108-T-B	
+TjSelor9	
+PT Profesional Telekomunikasi Indonesia	
+Jl. Sengkawit RT 34 RW 07 Kel. Tg. Selor Hilir Kec. Tg. Selor Kab. Bulungan	
+GF	
+SST	
+30	
+2,84702	
+117,38549	
+2014	
+3-Apr-14	
+024/BPMPT-III/IMB/III/2014	
+1	
+TSEL		
+TG SELOR HILIR	TG SELOR</description>
+			<LookAt>
+				<longitude>117.38549</longitude>
+				<latitude>2.84702</latitude>
+				<altitude>0</altitude>
+				<heading>-0.09005037992924894</heading>
+				<tilt>13.58813219344811</tilt>
+				<range>68444.50189648138</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.38549,2.84702,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KAL-EKL-0114-T-B</name>
+			<description>KAL-EKL-0114-T-B	
+TjSelor13	
+PT Profesional Telekomunikasi Indonesia	
+Jl. Perkembangan RT 009 RW 002 Desa Gunung Putih Kec. Tg. Palas Kab. Bulungan
+GF	
+SST	
+30	
+2,8383	
+117,33559	
+2014	
+16-Jun-14	
+027/BPMPT-III/IMB/IV/2014	
+1	
+TSEL		
+GUNUNG PUTIH	TG PALAS</description>
+			<LookAt>
+				<longitude>117.33559</longitude>
+				<latitude>2.838300000000002</latitude>
+				<altitude>0</altitude>
+				<heading>-0.09689549410164026</heading>
+				<tilt>17.86755118332429</tilt>
+				<range>10510.40740057072</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.33559,2.838300000000003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KAL-EKL-0213-T-B</name>
+			<description>KAL-EKL-0213-T-B	
+POI_UPDATE_414	
+PT Profesional Telekomunikasi Indonesia	
+Jl. Anan Dahlan RT 01 Kel. Tg. Palas Hilir Kec. Tg. Palas , Bulungan
+
+GF	
+SST	
+40	
+2,83886	
+117,35421	
+2014	
+4-Dec-14	
+191/BPMPT-III/IMB/XI/2014	
+1	
+TSEL		
+TG PALAS HILIR	
+TG PALAS</description>
+			<LookAt>
+				<longitude>117.3542099999999</longitude>
+				<latitude>2.838859999999997</latitude>
+				<altitude>0</altitude>
+				<heading>-0.09665024646558225</heading>
+				<tilt>28.54981831587687</tilt>
+				<range>1254.970885479721</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.3542099999999,2.838860000000004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KAL-EKL-0219-T-B</name>
+			<description>KAL-EKL-0219-T-B	
+PT_POI_UPDATE_413 ex.SEKATAK_REP	
+PT Profesional Telekomunikasi Indonesia	
+Jl. Tama Bengkulung RT 02 Tg. Palas Hulu, Tanjung Palas, Bulungan	
+GF	
+SST	
+40	
+2,82462	
+117,3568	
+2014	
+4-Dec-14	
+189/BPMPT-III/IMB/XI/2014	
+1	
+TSEL		
+TG PALAS HULU	
+TG PALAS</description>
+			<LookAt>
+				<longitude>117.3568</longitude>
+				<latitude>2.824619999999994</latitude>
+				<altitude>0</altitude>
+				<heading>-0.09588669471667281</heading>
+				<tilt>28.5703361865235</tilt>
+				<range>6053.589653180761</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.3568,2.824619999999994,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KAL-EKL-0217-T-B</name>
+			<description>KAL-EKL-0217-T-B	
+PT_Longsam	
+PT Profesional Telekomunikasi Indonesia	
+Jl. PU RT 002 Desa Long Sam Kec. Tg. Palas Barat , Bulungan	
+GF	
+SST	
+70	
+2,74178	
+117,16361	
+2014	
+4-Dec-14	
+190/BPMPT-III/IMB/XI/2014	
+1	
+TSEL		
+LONG SAM	
+TG PALAS BARAT</description>
+			<LookAt>
+				<longitude>117.16361</longitude>
+				<latitude>2.741780000000005</latitude>
+				<altitude>0</altitude>
+				<heading>-0.09578105830723413</heading>
+				<tilt>28.83016968839691</tilt>
+				<range>5835.504954035316</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.16361,2.741780000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KAL-NKL-0001-T-B</name>
+			<description>KAL-NKL-0001-T-B	
+PT_REP LONGSAM 	
+PT Profesional Telekomunikasi Indonesia	
+Jl. PU KM 74 Desa Long Beluah Kec. Tanjung Palas Barat Kab. Bulungan	
+GF	
+SST	
+100	
+2,74918	
+117,10649	
+2015	
+23-Nov-15	
+28/BPMPT-III/IMB/XI/2015	
+1	
+TSEL		
+LONG BELUAH	
+TG PALAS BARAT</description>
+			<LookAt>
+				<longitude>117.10649</longitude>
+				<latitude>2.749180000000005</latitude>
+				<altitude>0</altitude>
+				<heading>-0.08921569267805968</heading>
+				<tilt>28.94701844294707</tilt>
+				<range>32854.80546455328</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.1064900000001,2.749180000000008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KAL-NKL-0001-X-P</name>
+			<description>KAL-NKL-0001-X-P	
+TANJUNG PALAS	
+PT Profesional Telekomunikasi Indonesia	
+Jl. Kasimudin No.113 RT.03 Kel. Tg, Palas Tengah, Kec. Tg. Palas, Kab. Bulungan	
+GF	
+SST	
+71	
+2,83329	
+117,35609	
+2005	
+27-Sep-05	
+648/40/PEMB-I/2005	
+2	
+XLTSEL	
+Akuisisi dari PT XL Axiata	
+TG PALAS TENGAH	
+TG PALAS</description>
+			<LookAt>
+				<longitude>117.35609</longitude>
+				<latitude>2.833289999999999</latitude>
+				<altitude>0</altitude>
+				<heading>-0.08921569267810082</heading>
+				<tilt>28.94701844294707</tilt>
+				<range>32854.80546455226</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.35609,2.833289999999998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>230011109</name>
+			<description>230011109	
+TB_SAJAU_HILIR	
+PT. TOWER BERSAMA	
+Ds Sajau Hilir Rt 003/ Rw 002 Kec Tanjung Palas Timur Kab Bulungan Tanjung Selor Kalimantan Timur.,	
+GF	
+SST	
+72	
+2.72908	
+117.63215							
+SAJAU HILIR	
+TG PALAS TIMUR</description>
+			<LookAt>
+				<longitude>117.63215</longitude>
+				<latitude>2.72907999999998</latitude>
+				<altitude>0</altitude>
+				<heading>-0.08491786489565342</heading>
+				<tilt>25.99084248868275</tilt>
+				<range>7128.335135667559</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.63215,2.729079999999983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>230057109</name>
+			<description>230057109	
+TB_SKTAKBUJI EX SEKATAK_MG_C		
+PT. TOWER BERSAMA	
+Jl.Poros Kaltim, Desa Sekatac Buji Kecamatan Sekatak Kabupaten Bulungan Propinsi 	 Kaltim	
+GF	
+SST 	
+72 	
+3.3244 	
+117.06339 							
+SEKATAK BUJI 	
+SEKATAK  	
+(Telkomsel)</description>
+			<LookAt>
+				<longitude>117.06339</longitude>
+				<latitude>3.324399999999993</latitude>
+				<altitude>0</altitude>
+				<heading>-0.08491786489560552</heading>
+				<tilt>25.99084248868273</tilt>
+				<range>7128.335135665643</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.06339,3.324399999999993,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>230073109</name>
+			<description>230073109	
+TB_ARDYMULYO  EX PANCA AGUNG_A	
+PT. TOWER BERSAMA	
+JL.MERBABU RT 02/ RW 02 DESA ARDY MULYO KEC TANJUNG PALAS UTARA,KAB BULUNGAN	
+GF	
+SST	
+72	
+3.0978	
+117.22803							
+ARDI MULYO	
+TG PALAS UTARA</description>
+			<LookAt>
+				<longitude>117.22803</longitude>
+				<latitude>3.097799999999994</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0712367716855597</heading>
+				<tilt>26.25550694217916</tilt>
+				<range>45313.67197909031</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.22803,3.097799999999997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>230264109</name>
+			<description>230264109	
+TNI AD BRIGIF / BC BULUNGAN	
+PT. SOLU SINDO KREASI PRATAMA	
+Jln. Poros Tanah Kuning KM 12 RT 03/RW 01 Kel Gunung Sari, Kec. Tanjung Selor Kab. Bulungan Kaltara	
+GF	
+SST	
+72	
+2.77088	
+117.47001							
+GUNUNG SARI	
+TG SELOR</description>
+			<LookAt>
+				<longitude>117.47001</longitude>
+				<latitude>2.77088</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1811364348158333</heading>
+				<tilt>7.814302801512397</tilt>
+				<range>16282.04604012277</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.47001,2.770879999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>230650109</name>
+			<description>230650109	
+TB_TENGKAPAKTJS	
+PT. TOWER BERSAMA	
+desa tengkapak RT 03 KEC.TANJUNG SELOR KAB. BULUNGAN	
+GF	
+SST	
+42	
+2.82119	
+117.42016							
+TENGKAPAK	
+TG SELOR</description>
+			<LookAt>
+				<longitude>117.4201599999999</longitude>
+				<latitude>2.82119</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1811364348156246</heading>
+				<tilt>7.81430280151235</tilt>
+				<range>16282.04604012352</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.42016,2.82119,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>230651109</name>
+			<description>230651109	
+TB_MERPATISELOR TJS	
+PT. TOWER BERSAMA	
+Jl.Merpati ,RT.006 / 002, Kel.Tanjung Selor Timur,Kec.Tanjung Selor, Kab.BulungaN
+	
+GF	
+SST	
+42	
+2.84914	
+117.41763							
+TG SELOR TIMUR	
+TG SELOR</description>
+			<LookAt>
+				<longitude>117.41763</longitude>
+				<latitude>2.84914</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1811364348154564</heading>
+				<tilt>7.814302801512303</tilt>
+				<range>16282.04604012494</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.41763,2.849140000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>230652109</name>
+			<description>230652109	
+TB_JELARAIHULUTJS	
+PT. TOWER BERSAMA	
+RT 03 DES JELARAI SELOR KEC. TANJUNG SELOR KAB. BULUNGANKec Tj Selor, Kab Bulungan	
+GF	
+SST	
+42	
+2.81424	
+117.39996							
+JELARAI SELOR	
+TG SELOR</description>
+			<LookAt>
+				<longitude>117.39996</longitude>
+				<latitude>2.814240000000002</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1811364348153173</heading>
+				<tilt>7.814302801512209</tilt>
+				<range>16282.04604012529</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.39996,2.814240000000003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>230656109</name>
+			<description>230656109	
+TB_SEMANGKATJS	
+PT. TOWER BERSAMA	
+Jl Semangka Gg Nur RT038 RW13 Kel Tanjung Selor Hilir, Kec Tj Selor Kab Bulungan Prov Kaltara	
+GF	
+SST	
+42	
+2.85493	
+117.36559							
+TG SELOR HILIR	
+TG SELOR</description>
+			<LookAt>
+				<longitude>117.36559</longitude>
+				<latitude>2.854929999999999</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1811364348152662</heading>
+				<tilt>7.814302801512117</tilt>
+				<range>16282.04604012572</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.36559,2.854930000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>230666109</name>
+			<description>230666109	
+TB_APUNGTJS	
+PT. TOWER BERSAMA	
+JL. BPU RT. 003 RW. 002 Desa Apung Kec. Tanjung Selor Kab. Bulungan	
+GF	
+SST	
+42	
+2.77945	
+117.49828							
+APUNG	
+TG SELOR</description>
+			<LookAt>
+				<longitude>117.49828</longitude>
+				<latitude>2.779449999999986</latitude>
+				<altitude>0</altitude>
+				<heading>-0.181785376792051</heading>
+				<tilt>21.20017516248975</tilt>
+				<range>2640.053973904307</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.49828,2.779449999999986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>230669109</name>
+			<description>230669109	
+TB_JELARAIRAYATJS	
+PT. TOWER BERSAMA	
+Jl.Jelarai raya, Gg. Tanjung  RT.036 / 006, Kel.tanjung Selor hilir, Kec.tanjung Selor,Kab.bulungan	
+GF	
+SST	
+42	
+2.84228	
+117.39573							
+TG SELOR HILIR
+	TG SELOR</description>
+			<LookAt>
+				<longitude>117.39573</longitude>
+				<latitude>2.842279999999996</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1817853767919595</heading>
+				<tilt>21.20017516248972</tilt>
+				<range>2640.053973902699</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.39573,2.842279999999996,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>230670109</name>
+			<description>230670109	
+TB_GELATIKTJS	
+PT. TOWER BERSAMA	
+Jl. Gelatik Rt.021 Rw.07, Kel. Tanjung Selor Hilir Kec. Tanjung Selor, Bulungan - Kalimantan  Timur	
+GF	
+SST	
+42	
+2.83146	
+117.37819							
+TG SELOR HILIR
+TG SELOR</description>
+			<LookAt>
+				<longitude>117.37819</longitude>
+				<latitude>2.831459999999999</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1817853767918745</heading>
+				<tilt>21.20017516248968</tilt>
+				<range>2640.053973902002</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.37819,2.831459999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>230671109</name>
+			<description>230671109	
+TB_DUKU TJS	
+PT. TOWER BERSAMA	
+Jl.Duku RT.16 Kel.Tanjung selor hilir, Kec.Tanjung Selor Kab.BulunganKec Tj Selor, Kab Bulungan Prov Kaltara	
+GF	
+SST	
+42	
+2.84942	
+117.37068							
+TG SELOR HILIR
+TG SELOR</description>
+			<LookAt>
+				<longitude>117.37068</longitude>
+				<latitude>2.849420000000007</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1817853767918366</heading>
+				<tilt>21.20017516248964</tilt>
+				<range>2640.053973901504</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.37068,2.849420000000007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>230680109</name>
+			<description>230680109	
+TB_MENDANTJS	
+PT. TOWER BERSAMA	
+JELARAI TENGAH RT 07 DESA JELARAI SELOR KEC. TANJUNG SELOR KAB. BULUNGAN	GF	
+SST	
+42	
+2.81793	
+117.40865							
+JELARAI TENGAH	
+TG SELOR</description>
+			<LookAt>
+				<longitude>117.40865</longitude>
+				<latitude>2.817930000000008</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1817853767918483</heading>
+				<tilt>21.20017516248959</tilt>
+				<range>2640.0539739027</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.40865,2.817930000000009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>230695109</name>
+			<description>230695109	
+TB_MERANTITJS	
+PT. TOWER BERSAMA	
+Jl. Meranti RT05 RW02, Kel Tanjung Selor Hilir Kec Tj Selor, Kab Bulungan Prov Kaltara 	
+GF	
+SST	
+42	
+2.83938	
+117.37152							
+TG SELOR HILIR
+TG SELOR</description>
+			<LookAt>
+				<longitude>117.37152</longitude>
+				<latitude>2.839379999999999</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1817853767918105</heading>
+				<tilt>21.20017516248961</tilt>
+				<range>2640.053973904528</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.37152,2.839379999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>230910109</name>
+			<description>230910109	
+NEW POI_KAL_126 - B2S	
+PT. TOWER BERSAMA	
+Jl. Sengkawit RT. 053, RW.020, Kel. Tanjung Selor Hilir, Kec. Tanjung Selor, Kab. Bulungan	
+GF	
+SST	
+42	
+2.85486	
+117.37148							
+TG SELOR HILIR
+TG SELOR</description>
+			<LookAt>
+				<longitude>117.37148</longitude>
+				<latitude>2.85486</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1817853767917894</heading>
+				<tilt>21.20017516248958</tilt>
+				<range>2640.053973903763</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.37148,2.854859999999997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>231147109</name>
+			<description>231147109	
+PELABUHAN SPEED BULUNGAN	
+PT. SOLU SINDO KREASI PRATAMA	
+Jl. Sabanar Lama Gg. Belimbing RT. 63, RW. 023, Kel. Tanjung Selor Hilir, Kab. Bulungan, Kalimantan Utara	
+GF	
+SST	
+52	
+2.86810	
+117.37105							
+TG SELOR HILIR	
+TG SELOR</description>
+			<LookAt>
+				<longitude>117.37105</longitude>
+				<latitude>2.868099999999984</latitude>
+				<altitude>0</altitude>
+				<heading>-0.18178537679176</heading>
+				<tilt>21.20017516248952</tilt>
+				<range>2640.053973900587</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.37105,2.868099999999984,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>231292109</name>
+			<description>231292109	
+GUNUNG SARI	
+PT. SOLU SINDO KREASI PRATAMA	
+Jl. Bukit pasir RT 022 RW 004 desa apung Kec tanjung Selor Kecamatan Tanjung Selor Kabupaten Bulungan	
+GF	
+SST	
+42	
+2.7545	
+117.49868							
+APUNG	
+TG SELOR</description>
+			<LookAt>
+				<longitude>117.49868</longitude>
+				<latitude>2.7545</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1817853767917596</heading>
+				<tilt>21.20017516248952</tilt>
+				<range>2640.053973898001</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.49868,2.754499999999997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>231293109</name>
+			<description>231293109	
+SEKATAK/KEC.SEKATAK-IKCSEKATAK	
+PT. SOLU SINDO KREASI PRATAMA	
+Jl. Sai Kura Rt 003/001, Desa Bunyu Timur, Kecamatan Bunyu, Kabupaten Bulungan, Provinsi  Kalimantan Utara	
+GF	
+SST	
+42	
+3.46928	
+117.86614							
+BUNYU TIMUR	
+BUNYU</description>
+			<LookAt>
+				<longitude>117.86614</longitude>
+				<latitude>3.469279999999993</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1817853767916994</heading>
+				<tilt>21.20017516248949</tilt>
+				<range>2640.053973898973</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_observation-tower_icon-icons.com_70437</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.86614,3.469279999999997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>231294109</name>
+			<description>231294109	
+TJS009MM1_BKTBARATAN	
+PT. SOLU SINDO KREASI PRATAMA	
+Jl. hasanudin No. 35 Rt 003/001, Desa Bumi Rahayu, Kecamatan Tanjung Selor Kabupaten Bulungan	
+GF	
+SST	
+42	
+2.79045	
+117.45611							
+BUMI RAHAYU	
+TG SELOR</description>
+			<LookAt>
+				<longitude>117.45611</longitude>
+				<latitude>2.790449999999998</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1817174328302361</heading>
+				<tilt>23.13254413301082</tilt>
+				<range>26749.20242435243</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.45611,2.790449999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>231295109</name>
+			<description>231295109	
+TANJUNG SELOR TIMUR	
+PT. SOLU SINDO KREASI PRATAMA	
+Jl. Sunan Bonang RT 022 RW 007, Desa Selimau 3, Kelurahan Tanjung Selor Timur,Kecamatan Tanjung Selor, Kabupaten Bulungan	
+GF	
+SST	
+42	
+2.84994	
+117.45039							
+TG SELOR TIMUR	
+TG SELOR</description>
+			<LookAt>
+				<longitude>117.45039</longitude>
+				<latitude>2.849939999999997</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1817174328302108</heading>
+				<tilt>23.13254413301079</tilt>
+				<range>26749.20242435078</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.45039,2.84994,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19TJS002</name>
+			<description>19TJS002	
+PULAU_BUNYU	
+PT. INDOSAT	
+Jl. Manunggal IX Kec. Bunyu Kab. Bulungan	
+GF	
+SST	
+55	
+3.468185	
+117.851006	
+2004		
+503/27/IMB/DPMPTSP-IV/VIII/2017					
+BUNYU</description>
+			<LookAt>
+				<longitude>117.851006</longitude>
+				<latitude>3.46818500000001</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1824302030271228</heading>
+				<tilt>22.21030015296637</tilt>
+				<range>4255.276657869503</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.851006,3.468185000000009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19TJS003</name>
+			<description>19TJS003	
+SALIM_BATU	
+PT. INDOSAT	
+Jl. Pembangunan RT 04 Desa Salimbatu Kec. Tg. Palas Tengah Kab. Bulungan	
+GF	
+SST	
+100	
+2.9391471	
+117.342232	
+2005		
+648/005/PEB-II/2010				
+SALIMBATU	
+TG PALAS TENGAH</description>
+			<LookAt>
+				<longitude>117.342232</longitude>
+				<latitude>2.939147100000005</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1833679751718722</heading>
+				<tilt>21.66273773607595</tilt>
+				<range>12733.19826454441</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.342232,2.939147100000009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19TJS005</name>
+			<description>19TJS005	
+N_SAJAU	
+PT. INDOSAT	
+Jl. Poros Tanjung redep - Tanjung Selor KM 70 Kel. Jelarai Selor, Kab. Bulungan	
+GF	
+SST	
+100	
+2.60272222	
+117.500556	
+2006		
+648/24/PEMB-II/2006				JELARAI SELOR	
+TG SELOR</description>
+			<LookAt>
+				<longitude>117.500556</longitude>
+				<latitude>2.602722220000004</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1833679751718706</heading>
+				<tilt>21.66273773607594</tilt>
+				<range>12733.19826454737</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.500556,2.602722220000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19TJS006</name>
+			<description>19TJS006	
+N_KM12_TJ_SELOR	
+PT. INDOSAT	
+Jl. Pembangunan RT 03 RW 01 Desa Bumi Rahayu Kec. Tg. Selor Kab. Bulungan	
+GF	
+SST	
+100	
+2.784781	
+117.448644	
+2006		
+648/29/PEMB-II/2006				
+BUMI RAHAYU	
+TG SELOR</description>
+			<LookAt>
+				<longitude>117.448644</longitude>
+				<latitude>2.784780999999994</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1909361183101917</heading>
+				<tilt>20.7752900191158</tilt>
+				<range>29709.09507076003</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.448644,2.784780999999986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19TJS007</name>
+			<description>19TJS007	
+N_GUNUNG_DAENG	
+PT. INDOSAT	
+Jl. S Tapa RT XVII Gn. Daeng KM 6,2 Desa Bunyu Timur Kec Bunyu Kab. Bulungan	
+GF	
+SST	
+55	
+3.501	
+117.820694	
+2004		
+648/004/PEMB-I/2005				BUNYU TIMUR	
+BUNYU</description>
+			<LookAt>
+				<longitude>117.820694</longitude>
+				<latitude>3.501000000000003</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1909361183100766</heading>
+				<tilt>20.7752900191158</tilt>
+				<range>29709.09507076136</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.820694,3.501000000000006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19TJS009</name>
+			<description>19TJS009	 
+TJ_PALAS_TENGAH	
+PT. INDOSAT	
+Jl. Transbangdep RT17 Desa Jelarai Selor Kec. Tanjung Selor Kab. Bulungan	
+GF	
+SST	
+70	
+2.80583333	
+117.405	
+2007		
+648/09/PEMB-II/2007				JELARAI SELOR	
+TG SELOR</description>
+			<LookAt>
+				<longitude>117.405</longitude>
+				<latitude>2.805833330000001</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1909361183100154</heading>
+				<tilt>20.7752900191158</tilt>
+				<range>29709.09507076198</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.405,2.805833330000005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19TJS010</name>
+			<description>19TJS010	
+PEL_TJ_SELOR	
+PT. INDOSAT	
+Jl. H. Masykur RT 09 Kel Tanjung Selor Hilir Kec. Tg. Selor Kab. Bulungan	
+GF	
+SST	
+55	
+2.840306	
+117.363194	
+2007		
+648/02/PEMB-II/2007				
+TG SELOR HILIR	
+TG SELOR</description>
+			<LookAt>
+				<longitude>117.363194</longitude>
+				<latitude>2.840306</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1909361183099361</heading>
+				<tilt>20.77529001911571</tilt>
+				<range>29709.09507076365</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.363194,2.840306,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19TJS024</name>
+			<description>19TJS024	
+SEJAU	
+PT. INDOSAT	
+Desa Sajau Pura RT 03 Kec. Tanjung Palas Timur Kab. Bulungan	
+GF	
+SST	
+72	
+2.69733333	
+117.621167	
+2008		
+
+657/20/PEMB-II/2007				
+PURA SAJAU	
+TG PALAS TIMUR</description>
+			<LookAt>
+				<longitude>117.621167</longitude>
+				<latitude>2.697333329999999</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1888553052923027</heading>
+				<tilt>20.75589002063741</tilt>
+				<range>23594.15560528129</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.621167,2.697333330000002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19TJS025</name>
+			<description>19TJS025	
+PIMPING	
+PT. INDOSAT	
+Jl. Poros Provinsi RT. 03 RW.02 Desa Pimping Kec. Tg. Palas Utara Kab. Bulungan	
+GF	
+SST	
+72	
+2.99091667	
+117.215278	
+2008		
+655/20/PEMB-II/2007				
+PIMPING	
+TG PALAS UTARA</description>
+			<LookAt>
+				<longitude>117.215278</longitude>
+				<latitude>2.990916669999997</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1888553052923322</heading>
+				<tilt>20.75589002063741</tilt>
+				<range>23594.15560528042</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.215278,2.990916669999998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19TJS030</name>
+			<description>19TJS030	
+PUNGIT	
+PT. INDOSAT	
+Jl. Mirah No.28 RT 03 RW 01 Wonomulyo Kec. Tg. Palas Timur Kab. Bulungan	
+GF	
+SST	
+120	
+2.70791667	
+117.545361	
+2008		
+656/20/PEMB-II/2007				
+WONOMULYO	
+TG PALAS TIMUR</description>
+			<LookAt>
+				<longitude>117.545361</longitude>
+				<latitude>2.707916669999993</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1823127466842614</heading>
+				<tilt>24.20982579943383</tilt>
+				<range>18039.65099834666</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.545361,2.707916669999989,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19TJS031</name>
+			<description>19TJS031	
+LONG_PESO	
+PT. INDOSAT	
+Long Bia RT 01 RW 00 Kec. Peso Kab. Bulungan	
+GF	
+SST	
+72	
+2.696694	
+116.787056	
+2010		
+701/20/PEMB-II/2008				
+LONG BIA	
+PESO</description>
+			<LookAt>
+				<longitude>116.787056</longitude>
+				<latitude>2.696694000000002</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1823127466842675</heading>
+				<tilt>24.20982579943384</tilt>
+				<range>18039.65099834866</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>116.787056,2.696694000000002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19TJS036</name>
+			<description>19TJS036	
+M_GARDA_TUJUH_BUANA_BUNYU	
+PT. INDOSAT	
+
+Pulau Bunyu Utara	
+MBTS	
+GUYED MAST	
+32	
+3.573955	
+117.786317	
+2009		
+NO NEED IMB				
+BUNYU UTARA	BUNYU</description>
+			<LookAt>
+				<longitude>117.7863169999999</longitude>
+				<latitude>3.573955</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1848995821225926</heading>
+				<tilt>0</tilt>
+				<range>45657.15293054085</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.7863169999999,3.573955000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PT. XL AXIATA</name>
+			<description>PT. XL AXIATA	
+			
+30	
+3.32199999	
+117.577719	
+2004		
+643/236/T.KOTA/IV/2004</description>
+			<LookAt>
+				<longitude>117.577719</longitude>
+				<latitude>3.321999990000001</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1801255967685329</heading>
+				<tilt>0</tilt>
+				<range>45657.15293053328</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.577719,3.32199999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PT. XL AXIATA</name>
+			<description>PT. XL AXIATA				
+71	
+2.95005	
+117.338299	
+2005		
+648/38/PEMB-I/2005</description>
+			<LookAt>
+				<longitude>117.338299</longitude>
+				<latitude>2.950049999999999</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1801255967685114</heading>
+				<tilt>0</tilt>
+				<range>45657.15293053501</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.338299,2.950049999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PT. XL AXIATA</name>
+			<description>PT. XL AXIATA				
+71	
+2.60258055	
+117.496555	
+2005		
+648/39/PEMB-I/2005</description>
+			<LookAt>
+				<longitude>117.496555</longitude>
+				<latitude>2.60258055</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1801255967685077</heading>
+				<tilt>0</tilt>
+				<range>45657.15293053443</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.496555,2.60258055,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PT. XL AXIATA</name>
+			<description>PT. XL AXIATA	
+			
+80	
+2.77838888	
+117.4359694	
+2005		
+648/37/PEMB-II/2009</description>
+			<LookAt>
+				<longitude>117.4359694</longitude>
+				<latitude>2.778388879999999</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1853845734718559</heading>
+				<tilt>5.26554283577011</tilt>
+				<range>10704.74211238383</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.4359694,2.778388879999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PT. XL AXIATA</name>
+			<description>PT. XL AXIATA				
+51	
+3.466	
+117.8522194	
+2009		
+648/09/PEMB-II/2009</description>
+			<LookAt>
+				<longitude>117.8522194</longitude>
+				<latitude>3.466000000000002</latitude>
+				<altitude>0</altitude>
+				<heading>-0.185384573471845</heading>
+				<tilt>5.265542835769972</tilt>
+				<range>10704.74211238507</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.8522194,3.466000000000003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BTS 1</name>
+			<description>Telkomsel 
+Elevasi 11
+jl. silvasari</description>
+			<LookAt>
+				<longitude>117.3943077158677</longitude>
+				<latitude>2.869310254678224</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3059111446427208</heading>
+				<tilt>8.198741035255605</tilt>
+				<range>2778.494707216362</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.3633,2.840311111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TJS 022</name>
+			<description>Telkomsel
+Elevasi 15
+42 M
+Tahun 2007
+Jl. Cik Di Tiro</description>
+			<LookAt>
+				<longitude>117.3632793940965</longitude>
+				<latitude>2.840364895293595</latitude>
+				<altitude>0</altitude>
+				<heading>82.41044709805563</heading>
+				<tilt>33.7842756999128</tilt>
+				<range>75.5232364106828</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T01</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.36597,2.83281,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BPP 420 G</name>
+			<description>Telkomsel
+Tanjung Selor 2
+elevasi 19
+SST
+42 M
+Tahun 2007
+Jl. Gapensi</description>
+			<LookAt>
+				<longitude>117.3659556899206</longitude>
+				<latitude>2.832810651099972</latitude>
+				<altitude>0</altitude>
+				<heading>173.8772697878763</heading>
+				<tilt>45.80555067669854</tilt>
+				<range>100.5658535613073</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T01</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.36532,2.84643,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BTS 4</name>
+			<description>Telkomsel
+Elevasi 20
+Jalan Semangka</description>
+			<LookAt>
+				<longitude>117.3653975922211</longitude>
+				<latitude>2.845227244204616</latitude>
+				<altitude>0</altitude>
+				<heading>16.42602418894755</heading>
+				<tilt>51.1860760168932</tilt>
+				<range>195.4579815826104</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.36489,2.85482,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BTS 5</name>
+			<description>Jl. Duku</description>
+			<LookAt>
+				<gx:ViewerOptions>
+					<gx:option enabled="0" name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>117.3663561930372</longitude>
+				<latitude>2.856076866055714</latitude>
+				<altitude>0</altitude>
+				<heading>50.50221615944312</heading>
+				<tilt>89.34451512299731</tilt>
+				<range>218.2029616554851</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.37063,2.84941,2.378657200311272</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TJS 019</name>
+			<description>Telkomsel
+Asmi Sengkawit
+Elevasi 18
+42 M
+2006
+Jl. Sengkawit</description>
+			<LookAt>
+				<longitude>117.365233355726</longitude>
+				<latitude>2.839297614271672</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3058533817645769</heading>
+				<tilt>8.813189676629413</tilt>
+				<range>5642.077027888398</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.36846,2.85536,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>STO Telkom-1</name>
+			<description>Telkom
+Elevasi 38
+Jl. Cendrawasih</description>
+			<LookAt>
+				<longitude>117.3749245150326</longitude>
+				<latitude>2.845349305150767</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1175172232243157</heading>
+				<tilt>0</tilt>
+				<range>3628.624841672796</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.3854194444445,2.83595,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>STO Telkom-2</name>
+			<description>Telkom
+Elevasi 37
+Jl. Cendrawasih</description>
+			<LookAt>
+				<longitude>117.3854719191801</longitude>
+				<latitude>2.83597081872854</latitude>
+				<altitude>0</altitude>
+				<heading>-140.1415851799579</heading>
+				<tilt>30.0018198631537</tilt>
+				<range>404.9227863079336</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.38587,2.8362,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BTS 11</name>
+			<description>Elevasi 15
+Jl. Jelarai Raya, Kantor Bupati</description>
+			<LookAt>
+				<longitude>117.3855452806444</longitude>
+				<latitude>2.835939709737172</latitude>
+				<altitude>0</altitude>
+				<heading>116.431574697295</heading>
+				<tilt>43.79558413355302</tilt>
+				<range>362.9137265872843</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.39576,2.842290000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TB. Tengkapak</name>
+			<description>Telkomsel
+Elevasi 23
+SST 42 meter
+J. Gereja Desa Tengkapak</description>
+			<LookAt>
+				<longitude>117.3959228484558</longitude>
+				<latitude>2.842328259025352</latitude>
+				<altitude>0</altitude>
+				<heading>2.69838783672601</heading>
+				<tilt>45.00085180283634</tilt>
+				<range>141.1058823955654</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.39999,2.81429,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cap-Plan TJS-025</name>
+			<description>Telkomsel
+elevasi 16
+New Light 72 meter
+Desa Jelarai Selor RT. 21 Gg. Bougenville</description>
+			<LookAt>
+				<longitude>117.4000740400015</longitude>
+				<latitude>2.814129081236225</latitude>
+				<altitude>0</altitude>
+				<heading>-37.96125642554404</heading>
+				<tilt>45.96100322813939</tilt>
+				<range>79.47736954748565</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.40788,2.80356,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>STO-Telkom Bumi Rahayu</name>
+			<description>Telkom
+elevasi 60
+Jl. Pembangunan Desa Bumi Rahayu</description>
+			<LookAt>
+				<longitude>117.4080821168931</longitude>
+				<latitude>2.801550595783053</latitude>
+				<altitude>0</altitude>
+				<heading>54.01752912813549</heading>
+				<tilt>42.74513474009522</tilt>
+				<range>1524.460138644448</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.44855,2.7849,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tjg. Selor Cap /Sabanar Baru (telkomsel)</name>
+			<description>Telkomsel
+elevasi 13
+New Light 72 meter
+Tahun 2008
+Jl. Padat Karya Sabanar baru</description>
+			<LookAt>
+				<longitude>117.4484912919356</longitude>
+				<latitude>2.784610203341833</latitude>
+				<altitude>0</altitude>
+				<heading>54.0292621043881</heading>
+				<tilt>30.20059008326648</tilt>
+				<range>245.1337375978099</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.40453,2.846410000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TJS 043 Tanjung Agung</name>
+			<description>Telkomsel 
+Tanjung Agung Wonomulyo 
+elevasi 34 
+new light 92 meter 
+tahun 2008</description>
+			<LookAt>
+				<longitude>117.5434449731527</longitude>
+				<latitude>2.705676786297882</latitude>
+				<altitude>0</altitude>
+				<heading>-0.004923050815953815</heading>
+				<tilt>7.829380680336317</tilt>
+				<range>4525.747531196763</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.54628,2.7074,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Telinfo Tuntas</name>
+			<description>Telkomsel 
+Desa Binai 
+elevasi 58</description>
+			<LookAt>
+				<longitude>117.5464555660172</longitude>
+				<latitude>2.703336244665828</latitude>
+				<altitude>0</altitude>
+				<heading>-0.005514552958312673</heading>
+				<tilt>12.72395790405869</tilt>
+				<range>2353.574365814492</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.7163,2.6903,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tanah Kuning</name>
+			<description>Telkomsel 
+Desa Tanah Kuning 
+elevasi 37 
+SST 
+112 meter 
+Tahun 2008</description>
+			<LookAt>
+				<longitude>117.7140127099302</longitude>
+				<latitude>2.690515480234373</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07297850298467563</heading>
+				<tilt>3.555711652088733</tilt>
+				<range>5842.519255440579</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.81177,2.60346,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TJS 044 Mangkupadi</name>
+			<description>Telkomsel 
+Desa Mangkupadi 
+elevasi 49 
+new light 72 meter 
+Tahun 2009</description>
+			<LookAt>
+				<longitude>117.8170373478365</longitude>
+				<latitude>2.595469158369993</latitude>
+				<altitude>0</altitude>
+				<heading>0.006491657669821727</heading>
+				<tilt>15.00377972731966</tilt>
+				<range>3022.767703359174</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.85084,2.550580555555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>STO Bukit Baratan 1</name>
+			<description>Telkom 
+KM. 8 Sajau 
+elevasi 78</description>
+			<LookAt>
+				<longitude>117.5013748513831</longitude>
+				<latitude>2.60258111100883</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01207025800020765</heading>
+				<tilt>24.84293860642379</tilt>
+				<range>2054.477015859317</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.43314,2.77714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>STO Bukit Baratan 2</name>
+			<description>Telkom 
+elevasi 69 
+KM 8 Sajau</description>
+			<LookAt>
+				<longitude>117.43315</longitude>
+				<latitude>2.777139999999989</latitude>
+				<altitude>0</altitude>
+				<heading>-147.9326157921836</heading>
+				<tilt>48.14684208143429</tilt>
+				<range>92.41022829808333</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.4329947338532,2.77708552694866,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BTS 55</name>
+			<description>Telkom 
+Sajau KM 50 
+elevasi 200</description>
+			<LookAt>
+				<longitude>117.5009111111111</longitude>
+				<latitude>2.603300000000011</latitude>
+				<altitude>0</altitude>
+				<heading>-2.46608403366074</heading>
+				<tilt>46.631105756761</tilt>
+				<range>97.97310737388234</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.5009111111111,2.603300000000004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BTS 57</name>
+			<description>Telkomsel 
+Sajau KM. 50 
+elevasi 198</description>
+			<LookAt>
+				<longitude>117.5007831236452</longitude>
+				<latitude>2.602723452935454</latitude>
+				<altitude>0</altitude>
+				<heading>-55.17437856753193</heading>
+				<tilt>51.34829595633281</tilt>
+				<range>277.7387879327696</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.50063981573,2.603079112991081,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bunyu Relok TRK 038</name>
+			<description>Telkomsel 
+Bunyu Timur 2 
+elevasi 64 
+new light 72 meter</description>
+			<LookAt>
+				<longitude>117.85757</longitude>
+				<latitude>3.472027000000003</latitude>
+				<altitude>0</altitude>
+				<heading>-19.04872864152058</heading>
+				<tilt>29.86285715206687</tilt>
+				<range>104.9801382453773</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.85757,3.472027000000006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>STO Gunung Daeng 1</name>
+			<description>Telkom 
+Gunung Daeng Bunyu 
+elevasi 94 
+SST 
+72 meter</description>
+			<LookAt>
+				<longitude>117.8206</longitude>
+				<latitude>3.50771</latitude>
+				<altitude>0</altitude>
+				<heading>-19.04880962433625</heading>
+				<tilt>29.86393577045965</tilt>
+				<range>346.0857465368552</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.8206,3.50771,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>STO Gunung Daeng 2</name>
+			<description>Telkom 
+Gunung Daeng Bunyu 
+elvasi 94</description>
+			<LookAt>
+				<longitude>117.82078</longitude>
+				<latitude>3.507760000000013</latitude>
+				<altitude>0</altitude>
+				<heading>-19.04880962433621</heading>
+				<tilt>29.86393577045967</tilt>
+				<range>346.0857465369043</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.82078,3.507760000000013,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BTS 58</name>
+			<description>Bunyu 
+elevasi 35</description>
+			<LookAt>
+				<longitude>117.85118</longitude>
+				<latitude>3.465349999999988</latitude>
+				<altitude>0</altitude>
+				<heading>0.01039193115732846</heading>
+				<tilt>27.50480106876263</tilt>
+				<range>882.4572935631661</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.85118,3.465349999999991,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BTS 60</name>
+			<description>Telkomsel 
+Bunyu 
+Elvasi 68</description>
+			<LookAt>
+				<longitude>117.85563</longitude>
+				<latitude>3.471179999999996</latitude>
+				<altitude>0</altitude>
+				<heading>-54.97830790767038</heading>
+				<tilt>37.06852463892241</tilt>
+				<range>227.7788768399336</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.85563,3.471179999999997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BTS 61</name>
+			<description>Bunyu 
+elevasi 72</description>
+			<LookAt>
+				<longitude>117.85505</longitude>
+				<latitude>3.471459999999996</latitude>
+				<altitude>0</altitude>
+				<heading>-54.97830790767034</heading>
+				<tilt>37.06852463892241</tilt>
+				<range>227.7788768385892</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.85505,3.471459999999997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BTS 67</name>
+			<description>Telkom 
+Bunyu 
+elevasi 14</description>
+			<LookAt>
+				<longitude>117.848</longitude>
+				<latitude>3.466409999999998</latitude>
+				<altitude>0</altitude>
+				<heading>-54.97828802236421</heading>
+				<tilt>37.06936101306954</tilt>
+				<range>382.2469387519126</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.848,3.466409999999998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bunyu Barat Trk 037</name>
+			<description>Telkomsel 
+Bunyu Barat 
+elevasi 14 
+
+New light 42 meter</description>
+			<LookAt>
+				<longitude>117.84402</longitude>
+				<latitude>3.467220000000003</latitude>
+				<altitude>0</altitude>
+				<heading>-54.97828802236423</heading>
+				<tilt>37.06936101306949</tilt>
+				<range>382.246938745957</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.84402,3.467220000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TJS 008 Tg.palas Utara</name>
+			<description>Telkomsel	
+Desa Karang Agung Tg. Palas Utara 	
+elevasi 36 	
+SST 	
+72 meter 	
+Tahun 2005</description>
+			<LookAt>
+				<longitude>117.2122111111111</longitude>
+				<latitude>3.050420000000017</latitude>
+				<altitude>0</altitude>
+				<heading>-19.73886951045427</heading>
+				<tilt>28.52365607559865</tilt>
+				<range>1163.559184789197</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.2122111111111,3.050420000000019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CAP-Plan TJS 025</name>
+			<description>Telkomsel 	
+Jl. HM Ardans Desa Panca Agung 	
+elevasi 32 	
+72 meter 	
+Tahun 2007</description>
+			<LookAt>
+				<longitude>117.2125888888889</longitude>
+				<latitude>3.080400000000012</latitude>
+				<altitude>0</altitude>
+				<heading>-19.73886951045411</heading>
+				<tilt>28.52365607559861</tilt>
+				<range>1163.559184791039</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.2125888888889,3.080400000000019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ruhui Rahayu TJS 042</name>
+			<description>Telkomsel	
+Desa Ruhui Rahayu 	
+elevasi 26 	
+New Light 72 meter</description>
+			<LookAt>
+				<longitude>117.2395611111111</longitude>
+				<latitude>3.065500000000008</latitude>
+				<altitude>0</altitude>
+				<heading>-19.7387228471219</heading>
+				<tilt>28.21602116765163</tilt>
+				<range>1987.573890772807</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.2395611111111,3.065500000000011,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Silva Rahayu</name>
+			<description>Telkomsel 	
+Jl. Diponegoro Desa Silva Rahayu 	
+elevasi 21 	
+New Light 72 meter</description>
+			<LookAt>
+				<longitude>117.30019</longitude>
+				<latitude>2.987219999999998</latitude>
+				<altitude>0</altitude>
+				<heading>-19.73837355031168</heading>
+				<tilt>26.10424443960959</tilt>
+				<range>2264.053545372823</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T02</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.30019,2.987219999999998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Salimbatu TJS 005</name>
+			<description>Telkomsel 	
+Desa Salimbatu 		
+Elevasi 34 	
+SST 	
+102 meter</description>
+			<LookAt>
+				<longitude>117.33879</longitude>
+				<latitude>2.95019</latitude>
+				<altitude>0</altitude>
+				<heading>-19.73843152566422</heading>
+				<tilt>30.00076551522935</tilt>
+				<range>170.3856793376783</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.33879,2.950189999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>??? BTS 46 Salimbatu</name>
+			<description>?????
+Telkom	 
+Desa Salimbatu Tg. Palas Tengah 	
+elevasi 43</description>
+			<LookAt>
+				<longitude>117.33794</longitude>
+				<latitude>2.949969999999991</latitude>
+				<altitude>0</altitude>
+				<heading>-19.73837355031171</heading>
+				<tilt>26.10424443960956</tilt>
+				<range>2264.053545370744</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.33794,2.949969999999994,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BTS 49</name>
+			<description>Telkomsel 	
+Jl. Pembangunan Desa Salimbatu		
+elevasi 8</description>
+			<LookAt>
+				<longitude>117.35084</longitude>
+				<latitude>2.954029999999992</latitude>
+				<altitude>0</altitude>
+				<heading>-19.73841919623929</heading>
+				<tilt>30.00187815253308</tilt>
+				<range>418.0643215437567</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.35084,2.954029999999992,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tanjung Palas TJS 006</name>
+			<description>Telkomsel 	
+Jl. Pramuka, Kel. Tanjung Palas Tengah 	
+Elevasi 7	
+72 meter 	
+Tahun 2005</description>
+			<LookAt>
+				<longitude>117.34898</longitude>
+				<latitude>2.831140000000009</latitude>
+				<altitude>0</altitude>
+				<heading>-19.73854206821483</heading>
+				<tilt>30.00080543762513</tilt>
+				<range>179.247299127643</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.34898,2.831140000000008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>????? Tg. Palas Antutan TJS  040</name>
+			<description>???? koordinat miss 	
+Telkomsel 	
+Jl. Taman Siswa Desa Antutan Kecamatan Tg. Palas 	
+elevasi 7 	
+SST 	
+42 meter 	
+tahun 2008</description>
+			<LookAt>
+				<longitude>117.2983305555556</longitude>
+				<latitude>2.849169999999989</latitude>
+				<altitude>0</altitude>
+				<heading>-19.73854206821486</heading>
+				<tilt>30.00080543762515</tilt>
+				<range>179.2472991257357</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.2983305555556,2.849169999999989,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Peso Hilir TJS 024</name>
+			<description>Telkomsel  	
+Jl. Pembangunan Desa Long Tungu 	
+elevasi 24 	
+SST 	
+72 meter</description>
+			<LookAt>
+				<longitude>117.07513</longitude>
+				<latitude>2.790960000000002</latitude>
+				<altitude>0</altitude>
+				<heading>-19.73854211377177</heading>
+				<tilt>30.00080543762518</tilt>
+				<range>179.2472991235452</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.07513,2.790959999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BTS 042</name>
+			<description>Jl. Meranti Desa Tangap, Sekatak 
+Elevasi 37</description>
+			<LookAt>
+				<longitude>117.07416</longitude>
+				<latitude>3.306970000000005</latitude>
+				<altitude>0</altitude>
+				<heading>-19.72308224123171</heading>
+				<tilt>4.828071114333925</tilt>
+				<range>3263.714362618089</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.07416,3.306970000000005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BTS-50 Mara Hilir</name>
+			<description>Telkomsel 	
+Mara Hilir, Kec. Tanjung Palas Barat 	
+elevasi 14</description>
+			<LookAt>
+				<longitude>117.2406</longitude>
+				<latitude>2.747409999999998</latitude>
+				<altitude>0</altitude>
+				<heading>-19.72336615013197</heading>
+				<tilt>4.831943041281001</tilt>
+				<range>8387.400385252549</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.2406,2.747409999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BTS 51 Long Beluah</name>
+			<description>Telkomsel 	
+Jl. Balai Desa Long Beluah, Kec. Tanjung Palas Barat	
+elevasi 37</description>
+			<LookAt>
+				<longitude>117.1203</longitude>
+				<latitude>2.739770000000001</latitude>
+				<altitude>0</altitude>
+				<heading>-19.7236180697841</heading>
+				<tilt>11.64050568271164</tilt>
+				<range>3721.668861777557</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.1203,2.739770000000005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BTS 53</name>
+			<description>Telkomsel 	
+Jl. Tower Long Peso, Kecamatan Peso 	
+elevasi 39/40</description>
+			<LookAt>
+				<longitude>116.78715</longitude>
+				<latitude>2.696180000000009</latitude>
+				<altitude>0</altitude>
+				<heading>-19.72397138219788</heading>
+				<tilt>14.87379688796619</tilt>
+				<range>4604.048646860473</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>116.78715,2.696180000000008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Apung SSKP ???KTT</name>
+			<description>????? Kab. Tana Tidung  
+
+PT. Solusi Sindo Kreasi Pratama 	
+Jl Bukit Pasir RT 002 RW 004 Desa Apung Tanjung Selor
+GF 	
+SST 	
+42 meter</description>
+			<LookAt>
+				<longitude>120</longitude>
+				<latitude>-4.999999999999997</latitude>
+				<altitude>0</altitude>
+				<heading>6.361109362927033e-15</heading>
+				<tilt>0</tilt>
+				<range>11001000.00000001</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_T3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>116.91683,3.60578,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
